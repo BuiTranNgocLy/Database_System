@@ -1,0 +1,60 @@
+STTCT,TENCT,DIACHICT,TINHTHANH,KINHPHI,MSCH,MSCT,NGAYBD
+CT1,Khach san quoc te,101 le lai,can tho,500,CHU1,THAU1,1994/12/18
+CT2,Khach san ninh kieu,101 hai ba trung,vinh long,300,CHU2,THAU2,1994/12/12
+CT3,Cau can tho,1 hai ba trung,ca mau,400,CHU3,THAU3,1994/12/15
+CT4,Cau tinh yeu,15 nguyen viet hong,can tho,12800,CHU4,THAU4,2000/12/18
+CT5,Nha hat Ha Tien,23 duong 3/2,kien giang,22800,CHU5,THAU5,2001/12/12
+CT6,Vien duong lao,26 nguyen an ninh,tphcm,32800,CHU6,THAU6,1999/12/15
+CT7,Truong dai hoc Mai mai,288 phan dinh phung,can tho,42800,CHU7,THAU7,2000/12/18
+CT8,Truong tieu hoc An Phu,98 nguyen van linh,vinh long,52800,CHU8,THAU8,2004/12/12
+CT9,Sieu thi Vincom,99 hung vuong,an giang,62800,CHU9,THAU9,1999/12/15
+CT10,Tuong dai ke sach,13 le lai,soc trang,72800,CHU10,THAU10,1998/12/18
+CT11,Sieu thi Vincom,101 le loi,can tho,82800,CHU1,THAU1,1997/12/21
+CT12,Tuong dai ke sach,102 le lai,soc trang,92800,CHU2,THAU2,1996/12/24
+CT13,Sieu thi Vincom,103 le lai,an giang,102800,CHU3,THAU3,1995/12/28
+CT14,Tuong dai ke sach,104 le lai,can tho,112800,CHU4,THAU4,1994/12/31
+CT15,Sieu thi Vincom,105 le lai,can tho,122800,CHU5,THAU1,1994/01/03
+CT16,Tuong dai ke sach,106 le lai,soc trang,132800,CHU6,THAU2,1993/01/06
+CT17,Sieu thi Vincom,107 le lai,can tho,142800,CHU7,THAU3,1992/01/10
+CT18,Tuong dai ke sach,108 le lai,soc trang,152800,CHU8,THAU4,1991/01/13
+CT19,Sieu thi Vincom,109 le lai,can tho,162800,CHU9,THAU5,1990/01/16
+CT20,sieu thi 1,104 duong ba thang 2,vinh long,172800,CHU1,THAU6,1989/01/19
+CT21,sieu thi 2,105 duong ba thang 2,can tho,182800,CHU2,THAU7,1988/01/23
+CT22,sieu thi 3,106 duong ba thang 2,soc trang,192800,CHU3,THAU8,1987/01/26
+CT23,sieu thi 4,107 duong ba thang 2,vinh long,202800,CHU4,THAU9,1986/01/29
+CT24,sieu thi 5,108 duong ba thang 2,can tho,212800,CHU5,THAU10,1985/02/01
+CT25,sieu thi 6,109 duong ba thang 2,soc trang,222800,CHU6,THAU1,1984/02/05
+CT26,sieu thi 7,110 duong ba thang 2,vinh long,232800,CHU7,THAU2,1983/02/08
+CT27,sieu thi 8,111 duong ba thang 2,can tho,242800,CHU8,THAU3,1982/02/11
+CT28,sieu thi 9,112 duong ba thang 2,soc trang,252800,CHU9,THAU4,1981/02/14
+CT29,sieu thi 10,113 duong ba thang 2,vinh long,262800,CHU10,THAU5,1980/02/18
+CT30,sieu thi 11,114 duong ba thang 2,can tho,272800,CHU1,THAU6,1979/02/21
+CT31,sieu thi 12,115 duong ba thang 2,soc trang,282800,CHU2,THAU1,1978/02/24
+CT32,sieu thi 13,116 duong ba thang 2,vinh long,292800,CHU3,THAU2,1977/02/27
+CT33,sieu thi 14,117 duong ba thang 2,can tho,302800,CHU4,THAU3,1976/03/02
+CT34,sieu thi 15,118 duong ba thang 2,soc trang,312800,CHU5,THAU4,1975/03/06
+CT35,sieu thi 16,119 duong ba thang 2,vinh long,322800,CHU6,THAU5,1974/03/09
+CT36,sieu thi 17,120 duong ba thang 2,can tho,332800,CHU7,THAU6,1973/03/12
+CT37,sieu thi 18,121 duong ba thang 2,soc trang,342800,CHU8,THAU7,1972/03/15
+CT38,sieu thi 19,122 duong ba thang 2,vinh long,352800,CHU9,THAU8,1971/03/19
+CT39,sieu thi 20,123 duong ba thang 2,vinh long,362800,CHU1,THAU9,1970/03/22
+CT40,sieu thi 21,124 duong ba thang 2,can tho,372800,CHU2,THAU10,1969/03/25
+CT41,sieu thi 22,125 duong ba thang 2,soc trang,382800,CHU3,THAU11,1968/03/28
+CT42,sieu thi 23,126 duong ba thang 2,vinh long,392800,CHU4,THAU12,1967/04/01
+CT43,sieu thi 24,127 duong ba thang 2,vinh long,402800,CHU5,THAU13,1966/04/04
+CT44,sieu thi 25,128 duong ba thang 2,can tho,412800,CHU6,THAU14,1965/04/07
+CT45,sieu thi 26,129 duong ba thang 2,soc trang,422800,CHU7,THAU15,1964/04/10
+CT46,sieu thi 27,130 duong ba thang 2,vinh long,432800,CHU8,THAU16,1963/04/14
+CT47,sieu thi 28,131 duong ba thang 2,vinh long,442800,CHU9,THAU17,1962/04/17
+CT48,sieu thi 29,132 duong ba thang 2,vinh long,452800,CHU10,THAU18,1961/04/20
+CT49,sieu thi 30,133 duong ba thang 2,can tho,462800,CHU1,THAU17,1960/04/23
+CT50,sieu thi 31,134 duong ba thang 2,soc trang,472800,CHU2,THAU18,1959/04/27
+CT51,sieu thi 32,135 duong ba thang 2,vinh long,482800,CHU3,THAU17,1958/04/30
+CT52,sieu thi 33,136 duong ba thang 2,vinh long,492800,CHU4,THAU18,1957/05/03
+CT53,sieu thi 34,137 duong ba thang 2,can tho,502800,CHU5,THAU2,1956/05/06
+CT54,sieu thi 35,138 duong ba thang 2,soc trang,512800,CHU6,THAU3,1955/05/10
+CT55,sieu thi 36,139 duong ba thang 2,vinh long,522800,CHU7,THAU4,1954/05/13
+CT56,sieu thi 37,140 duong ba thang 2,vinh long,532800,CHU8,THAU5,1953/05/16
+CT57,sieu thi 38,141 duong ba thang 2,can tho,542800,CHU9,THAU6,1952/05/19
+CT58,sieu thi 39,142 duong ba thang 2,soc trang,552800,CHU1,THAU7,1951/05/23
+CT59,sieu thi 40,143 duong ba thang 2,vinh long,562800,CHU2,THAU8,1950/05/26

@@ -1,0 +1,6 @@
+1. Trước khi lấy sheet của thuộc tính trong bảng nào đó của file dữ liệu chính(xlsx) thì các ngày sinh phải định dạng theo
+yyyy/mm/dd
+2. CSDL sinh viên và công trình có các sheet trùng tên như điểm, tham gia, thiết kế mà có đuôi là nono_duplicate thì đã được loại bỏ
+các cặp dữ liệu trùng nhau để tạo được khóa chính dễ dàng hơn
+3. Những sheet (diem,thamgia,thietke) mà kh có đuôi no_duplicate thì sẽ tạo khóa chính phức tạp hơn vì vậy nên sử dụng
+sheet (diem,thamgia,thietke) có đuôi là no_duplicate 

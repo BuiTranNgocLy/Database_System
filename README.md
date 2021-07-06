@@ -8,7 +8,7 @@
 
 * **Sơ đồ thông thương**
 
-    * [`Sơ đồ thông thương CSDL công trình`](https://github.com*/NguyenHuuNhan1912/Database_System/blob/master/Database_System_SQL_2008/Picture_Diagram/Picture_Diagram_congtrinh.png)
+    * [`Sơ đồ thông thương CSDL công trình`](https://github.com/NguyenHuuNhan1912/Database_System/blob/master/Database_System_SQL_2008/Picture_Diagram/Picture_Diagram_congtrinh.png)
 
     * [`Sơ đồ thông thương CSDL quản lý sinh viên`](https://github.com/NguyenHuuNhan1912/Database_System/blob/master/Database_System_SQL_2008/Picture_Diagram/Picture_Diagram_qlsv.png)
 

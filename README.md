@@ -2,7 +2,7 @@
 
 💎**Thao tác cơ bản trên SQL server 2008**💎
 
-[---⫸ Tạo và thao tác trên cơ sở dữ liệu công trình](https://github.com/NguyenHuuNhan1912/Database_System/blob/master/Database_System_SQL_2008/Source/congtrinh.sql)
+`[---⫸ Tạo và thao tác trên cơ sở dữ liệu công trình]`(https://github.com/NguyenHuuNhan1912/Database_System/blob/master/Database_System_SQL_2008/Source/congtrinh.sql)
 
 [---⫸ Tạo và thao tác trên cơ sở dữ liệu quản lý sinh viên](https://github.com/NguyenHuuNhan1912/Database_System/blob/master/Database_System_SQL_2008/Source/qlsv.sql)
 

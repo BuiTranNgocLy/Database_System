@@ -17,4 +17,6 @@
 | [**Các FILE dữ liệu cho hai CSDL trên**](https://github.com/NguyenHuuNhan1912/Database_System/tree/master/Database_System_SQL_2008/File_Data) |[**Đề tham khảo thi lý thuyết**](https://github.com/NguyenHuuNhan1912/Database_System/tree/master/Database_System_SQL_2008/De_Thi_Ly_Thuyet) |[**Các FILE đã backup**](https://github.com/NguyenHuuNhan1912/Database_System/tree/master/Database_System_SQL_2008/File_Backup)  |
 | -------------------------- | -------------------------- | -------------------------- |
 
-![alt tag](https://github.com/NguyenHuuNhan1912/NguyenHuuNhan1912/blob/main/i17.jpg)
+<p align="center">
+   <img src="https://i0ba83ftsgi2rzkek1hlusq1-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/how-it-works-compressed-new.gif">
+</p>
